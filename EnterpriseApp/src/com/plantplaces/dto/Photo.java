@@ -49,5 +49,8 @@ public class Photo implements Serializable {
 	public void setContributor(String contributor) {
 		this.contributor = contributor;
 	}
+	public void roshan(){
+		System.out.println("I am Roshan");
+	}
 
 }
